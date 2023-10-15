@@ -1,0 +1,15 @@
+body {
+    font-family: Montserrat, sans-serif;
+    background-color: #e5e8c4;
+}
+.header-content {
+    display: flex;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+.header-text {
+    flex: 1;
+}
