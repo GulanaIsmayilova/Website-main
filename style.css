@@ -24,3 +24,8 @@ profile-picture {
     max-width: 100%;
     border-radius: 50%;
 }
+header h1 {
+    font-size: 2em;
+    margin: 0;
+    color:aquamarine
+}
